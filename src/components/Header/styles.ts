@@ -19,6 +19,7 @@ export const Header = styled.header`
 export const NavBar = styled.nav`
   /* Navegação */
   font-family: "Imperial Script";
+  font-size: 2rem;
   display: flex;
   align-items: center;
   width: 100%;

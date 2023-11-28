@@ -1,2 +1,6 @@
 export { Home as PageHome } from "./Home"
 export { List as PageList } from "./Pedidos"
+export { Adm as PageAdm } from "./Adm"
+export { Layout as PageLayout } from "./Layout"
+export { Cadastro as PageCadastro } from "./Cadastro"
+export { Login as PageLogin} from "./Login"

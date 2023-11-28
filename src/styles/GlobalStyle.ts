@@ -1,3 +1,4 @@
+import 'react-toastify/dist/ReactToastify.css';
 import styled, { createGlobalStyle } from "styled-components"
 
 export const GlobalStyle = createGlobalStyle`
@@ -7,7 +8,6 @@ export const GlobalStyle = createGlobalStyle`
     outline: 0;
     border: 0;
     box-sizing: border-box;
-    background-image: ../../assets/PapeldeParede;
   }
 `
 export const colors = {
